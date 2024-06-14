@@ -1,0 +1,176 @@
+body1 {
+	align-items: center;
+}
+
+header {
+	text-align: center;
+	font-size: 30px;
+	padding: 20px;
+	border-bottom-width: 3px;
+    border-bottom-style: solid;
+    border-bottom-color: #000;
+    background-color: #C0D6EE;
+}
+
+nav {
+	text-align: center;
+	width: 100%;
+	border-bottom-style: solid;
+	border-bottom-color: #000;
+	border-bottom-width: 3px;
+}
+
+ul{
+	list-style: none;
+}
+
+ul li {
+	font-family: sans-serif;
+	display: inline-block;
+	margin-left: 7%;
+	margin-right: 7%;
+	font-size: 15px;
+}
+
+#Nosotros {
+	width: 33%;
+	display: inline-block;
+}
+
+#Nosotros h1 {
+	font-size: 25px;
+	text-align: center;
+	font-family: sans-serif;
+	color: #100C74;
+}
+
+#Nosotros p {
+	font-size: 12px;
+	font-family: sans-serif;
+	margin-left: 10%;
+	margin-right: 10%;
+	text-align: center;
+}
+
+#Contacto {
+	width: 33%;
+	display: inline-block;
+	vertical-align: top;}
+
+#Contacto h1 {
+	font-size: 25px;
+	text-align: center;
+	font-family: sans-serif;
+	color: #100C74;
+}
+
+#Contacto p {
+	font-size: 12px;
+	font-family: sans-serif;
+	margin-left: 10%;
+	margin-right: 10%;
+	text-align: center;
+}
+
+img {
+	width: 70%;
+}
+
+#Ubicación {
+	width: 50%;
+	display: inline-block;
+	text-align: center;
+}
+
+
+#Nosotros2 {
+	width: 100%;
+	display: inline-block;
+	text-align: center;
+	background-color: #DFDEFA;
+}
+
+#Nosotros2 h1 {
+	font-size: 60px;
+	color: #4A46A8;
+}
+
+#Nosotros2 h3 {
+	font-size: 30px;
+	color: #7774BF;
+}
+
+#Nosotros2 p {
+	text-align: center;
+	font-size: 20px;
+	margin-left: 10%;
+	margin-right: 10%;
+}
+
+#imagen-Nosotros2 {
+	width: 30%;
+	margin-left: 35%;
+}
+
+#Contacto2 {
+	width: 100%;
+	display: inline-block;
+	text-align: center;
+	background-color: #DFDEFA;
+}
+
+#Contacto2 h1{
+	font-size: 60px;
+	color: #4A46A8;
+}
+
+#Contacto2 h3{
+	font-size: 30px;
+	color: #7774BF;
+}
+
+#Contacto2 p {
+	text-align: center;
+	font-size: 20px;
+	margin-left: 10%;
+	margin-right: 10%;
+}
+
+#Imagen-Contacto2 {
+	width: 30%;
+	margin-left: 35%;
+}
+
+#Ubicación  {
+	width: 100%;
+	display: inline-block;
+	text-align: center;
+	background-color: #DFDEFA;
+}
+
+#Ubicación h1 {
+	font-size: 60px;
+	color: #4A46A8;
+}
+
+#Ubicación h3 {
+	font-size: 30px;
+	color: #7774BF;
+}
+
+#Ubicación p {
+	text-align: center;
+	font-size: 20px;
+	margin-left: 10%;
+	margin-right: 10%;
+}
+
+#Ubicación-imagen {
+	width: 30%;
+	margin-left: 35%;
+}
+
+#Imagenes-Uno {
+	width: 65%;
+	margin-left: 25%;
+}
